@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://salahalkaseri7.github.io/chandrikadeb7.github.io/sitemap/sitemap-index.xml
+Host: https://salahalkaseri7.github.io

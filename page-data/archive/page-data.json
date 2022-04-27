@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-archive-js",
+    "path": "/archive/",
+    "result": {"data":{"allMarkdownRemark":{"edges":[{"node":{"frontmatter":{"date":"2020-09-16","title":"T1","tech":["Java","Javascript","CSS"],"github":"https://salahalkaseri7.github.io/Typing-speedo/","external":"","company":""},"html":"<p>Typing_speedo The journey! ~salah_alkaseri</p>"}}]}},"pageContext":{}},
+    "staticQueryHashes": ["3115057458"]}
